@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on Sihan Chen </title>
-    <link>https://coderballer.github.io/posts/</link>
-    <description>Recent content in Posts on Sihan Chen </description>
+    <title>反思 on Sihan Chen </title>
+    <link>https://coderballer.github.io/tags/%E5%8F%8D%E6%80%9D/</link>
+    <description>Recent content in 反思 on Sihan Chen </description>
     <generator>Hugo -- 0.151.0</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 16 Oct 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://coderballer.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://coderballer.github.io/tags/%E5%8F%8D%E6%80%9D/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>教书的一些感想</title>
       <link>https://coderballer.github.io/posts/teaching-reflections-so-far/</link>
@@ -22,13 +22,6 @@
 &lt;p&gt;Human nature is a much more complicated thing.&lt;/p&gt;
 &lt;p&gt;教书我感觉是一个即需要经验但又不需要经验的工作。。。听起来有点矛盾。需要经验是你要学会以教育者的身份和孩子相处，给与他们更好的陪伴，更好地传授给他们知识。入行的这几年，没有经验的我有太多的瞬间内心对自己说：Oh! I could’ve done this better! 但另一方面，经验反而会束缚人的视角，人性是没办法猜测的，即使是孩子的人性。感觉自己很有经验往往会滋生傲慢，傲慢的行为一定是欠佳的行为。&lt;/p&gt;
 &lt;p&gt;胡乱写些，洗洗睡觉~&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>总得相信些东西</title>
-      <link>https://coderballer.github.io/posts/trust/</link>
-      <pubDate>Tue, 14 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://coderballer.github.io/posts/trust/</guid>
-      <description>&lt;p&gt;解决好自己的财务状况，我会找到方式的。&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
